@@ -9,7 +9,7 @@ describe('analyze', () => {
   });
 
   test('min', () => {
-    expect(analyze([1, 8, 3, 4, 2, 6]).min).toEqual(5);
+    expect(analyze([1, 8, 3, 4, 2, 6]).min).toEqual(1);
     expect(analyze([8, 2]).min).toEqual(2);
     expect(analyze([8]).min).toEqual(8);
     expect(analyze([]).min).toEqual(0);

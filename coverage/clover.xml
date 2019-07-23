@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1563914366589" clover="3.2.0">
-  <project timestamp="1563914366589" name="All files">
+<coverage generated="1563914990883" clover="3.2.0">
+  <project timestamp="1563914990884" name="All files">
     <metrics statements="37" coveredstatements="36" conditionals="8" coveredconditionals="7" methods="16" coveredmethods="16" elements="61" coveredelements="59" complexity="0" loc="37" ncloc="37" packages="1" files="5" classes="5"/>
     <file name="arrayAnalysis.js" path="/home/cjmbytes/Code/Projects/microver-projects/JavaScript/testing-in-js/src/arrayAnalysis.js">
       <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
-      <line num="1" count="31" type="stmt"/>
-      <line num="3" count="9" type="stmt"/>
-      <line num="5" count="9" type="stmt"/>
-      <line num="7" count="9" type="stmt"/>
+      <line num="1" count="36" type="stmt"/>
+      <line num="3" count="12" type="stmt"/>
+      <line num="5" count="12" type="stmt"/>
+      <line num="7" count="12" type="stmt"/>
       <line num="9" count="1" type="stmt"/>
-      <line num="10" count="10" type="stmt"/>
-      <line num="11" count="10" type="cond" truecount="2" falsecount="0"/>
-      <line num="12" count="1" type="stmt"/>
-      <line num="19" count="9" type="stmt"/>
-      <line num="26" count="10" type="stmt"/>
+      <line num="10" count="16" type="stmt"/>
+      <line num="11" count="16" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="19" count="12" type="stmt"/>
+      <line num="26" count="16" type="stmt"/>
       <line num="29" count="1" type="stmt"/>
     </file>
     <file name="caesarCipher.js" path="/home/cjmbytes/Code/Projects/microver-projects/JavaScript/testing-in-js/src/caesarCipher.js">

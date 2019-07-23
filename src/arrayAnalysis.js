@@ -1,8 +1,8 @@
 const average = arr => (arr.reduce((a, b) => a + b, 0)) / arr.length;
 
-const min = arr => Math.min(arr);
+const min = arr => Math.min(...arr);
 
-const max = arr => Math.max(arr);
+const max = arr => Math.max(...arr);
 
 const len = arr => arr.length;
 
