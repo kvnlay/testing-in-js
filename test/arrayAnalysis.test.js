@@ -26,6 +26,6 @@ describe('analyze', () => {
     expect(analyze([1, 8, 3, 4, 2, 6]).length).toEqual(6);
     expect(analyze([8, 2]).length).toEqual(2);
     expect(analyze([8]).length).toEqual(1);
-    expect(analyze([0]).length).toEqual();
+    expect(analyze([]).length).toEqual(0);
   });
 });
