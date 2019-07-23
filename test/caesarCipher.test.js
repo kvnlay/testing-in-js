@@ -6,7 +6,7 @@ describe('caesarCipher', () => {
   });
 
   test('keeping the same case', () => {
-    expect(caesarCipher('BinD', 1).toMatch('CjoE'));
+    expect(caesarCipher('BinD', 1)).toMatch('CjoE');
   });
 
   test('punctuation', () => {
